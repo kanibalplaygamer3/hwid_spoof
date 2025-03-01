@@ -1,0 +1,5 @@
+
+    Disk: Randomize the serial numbers of all disks
+    NIC: Hide related network adapters
+    SmBios: Randomize SmBios information. For customizing specific structures, refer to the reference manual
+    GPU: Randomize the serial number of the graphics card
